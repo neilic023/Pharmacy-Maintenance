@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Panthenol",
+      "manufacturer": "Galenika",
+      "price": "10",
+      "expiryDate": "22/10/2022",
+      "": "Panthenol123123"
+    },
+    {
+      "name": "Brufen",
+      "manufacturer": "Galenika",
+      "price": "25",
+      "expiryDate": "2025-10-08",
+      "id": "FVxY0Gr",
+      "": "Brufen111"
+    },
+    {
+      "name": "Ventolin",
+      "manufacturer": "GHK",
+      "price": "6",
+      "expiryDate": "2021-09-30",
+      "id": "Jmd0QKm",
+      "": "Ventolin144",
+      "undefined": "Ventolin123"
+    },
+    {
+      "name": "Ksalol",
+      "manufacturer": "Galenika",
+      "price": "46",
+      "expiryDate": "2025-10-23",
+      "id": "xK8q3mJ",
+      "": "Galenikaa"
+    },
+    {
+      "name": "Bromazepam",
+      "manufacturer": "Hemofarm",
+      "price": "5",
+      "expiryDate": "2024-10-30",
+      "id": "qJH-4fu"
+    },
+    {
+      "name": "Panklav",
+      "manufacturer": "Hemofarm",
+      "price": "6",
+      "expiryDate": "2024-06-05",
+      "id": "GeTsOSr"
+    },
+    {
+      "name": "Amoksicilin",
+      "manufacturer": "Hemofarm",
+      "price": "9",
+      "expiryDate": "2025-07-02",
+      "id": "KCaqwQo"
+    },
+    {
+      "name": "Caffetine",
+      "manufacturer": "Alkaloid",
+      "price": "12",
+      "expiryDate": "2021-09-16",
+      "id": "wyYS_ki"
+    },
+    {
+      "name": "Magnezijum direkt",
+      "manufacturer": "Alkaloid",
+      "price": "12",
+      "expiryDate": "2023-02-15",
+      "id": "yABZw5i"
+    },
+    {
+      "name": "Fervex",
+      "manufacturer": "UPS SAS",
+      "price": "22",
+      "expiryDate": "2024-04-10",
+      "id": "eIMgEN8"
+    },
+    {
+      "name": "Nimulid",
+      "manufacturer": "Hemofarm",
+      "price": "5",
+      "expiryDate": "2021-10-20",
+      "id": "HbsjPUJ"
+    }
+  ],
+  "manufacturer": [
+    {
+      "id": "1",
+      "name": "Galenika"
+    },
+    {
+      "id": "2",
+      "name": "Pfizer"
+    },
+    {
+      "id": "3",
+      "name": "Bayer"
+    }
+  ]
+}
